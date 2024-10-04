@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\services\KubernetesService.class
+com\example\demo\controllers\KubernetesController.class
+com\example\demo\entities\DeploymentInfo.class
